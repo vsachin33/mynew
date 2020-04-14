@@ -1,3 +1,2 @@
-line added mynew project branch is modified in master
-added extra line in master
-
+line modifed mynew project and master now merged
+also adding extra via both
