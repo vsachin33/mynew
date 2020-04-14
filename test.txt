@@ -1,1 +1,2 @@
-line added mynew project branch
+line modifed mynew project branch with some additional text in mynew project
+also adding extra line in mynew project
